@@ -1,4 +1,4 @@
-# My First Repo
+# My First Repo:
 
 
 ## Terminal Steps for Creating a Repositary
@@ -17,5 +17,10 @@
   - ** This does not commit, it just stages changes, these changes can still be over written**
 2. `git commit -m "commit message"` - this command makes a commit and gives it a message 
 
+## Steps to PUSH commits to github.com
+1. `git push origin -u master` - pushes all commit to github.
+2. all subsequent pushes `git push`
+
 ## Vocab:
 - `commit` - to save a version, you can commit locally, push commit to git hub.
+- `push` - to push commits to online repository
